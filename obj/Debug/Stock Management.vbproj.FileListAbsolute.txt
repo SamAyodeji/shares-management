@@ -1,0 +1,14 @@
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\bin\Debug\Stock Management.exe.config
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\bin\Debug\Stock Management.exe
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\bin\Debug\Stock Management.pdb
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\bin\Debug\Stock Management.xml
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock_Management.Balance.resources
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock_Management.Dashboard.resources
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock_Management.Login.resources
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock_Management.Resources.resources
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.vbproj.GenerateResource.cache
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.vbproj.CoreCompileInputs.cache
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.exe
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.xml
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.pdb
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.vbprojAssemblyReference.cache
