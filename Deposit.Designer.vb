@@ -29,7 +29,7 @@ Partial Class Deposit
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(381, 218)
+        Me.Button1.Location = New System.Drawing.Point(345, 217)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(184, 84)
         Me.Button1.TabIndex = 0
@@ -39,7 +39,7 @@ Partial Class Deposit
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(194, 117)
+        Me.Label1.Location = New System.Drawing.Point(172, 135)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(80, 25)
         Me.Label1.TabIndex = 1

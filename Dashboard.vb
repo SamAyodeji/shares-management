@@ -19,4 +19,13 @@ Public Class Dashboard
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
         Label2.Text = Login.TextBox1.Text
     End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        Deposit.Show()
+
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Withdraw.Show()
+    End Sub
 End Class

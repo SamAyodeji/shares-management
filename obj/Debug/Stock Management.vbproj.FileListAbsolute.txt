@@ -12,3 +12,4 @@ C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Managem
 C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.xml
 C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.pdb
 C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock Management.vbprojAssemblyReference.cache
+C:\Users\Lifeworth-Ayodeji\source\repos\Stock Management\obj\Debug\Stock_Management.Deposit.resources

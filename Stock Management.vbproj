@@ -137,8 +137,14 @@
     <EmbeddedResource Include="Balance.resx">
       <DependentUpon>Balance.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="BuyShares.resx">
+      <DependentUpon>BuyShares.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deposit.resx">
+      <DependentUpon>Deposit.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
@@ -148,6 +154,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Withdraw.resx">
+      <DependentUpon>Withdraw.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
