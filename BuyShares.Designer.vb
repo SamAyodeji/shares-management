@@ -33,7 +33,7 @@ Partial Class BuyShares
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(192, 79)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(457, 44)
+        Me.Label1.Size = New System.Drawing.Size(261, 25)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "please note A Share = $100 "
         '
@@ -46,11 +46,11 @@ Partial Class BuyShares
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(344, 254)
+        Me.Button1.Location = New System.Drawing.Point(344, 253)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(182, 60)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "Button1"
+        Me.Button1.Text = "Buy"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Label2
@@ -58,7 +58,7 @@ Partial Class BuyShares
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(58, 174)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(383, 44)
+        Me.Label2.Size = New System.Drawing.Size(219, 25)
         Me.Label2.TabIndex = 3
         Me.Label2.Text = "Amount of Share to Buy"
         '

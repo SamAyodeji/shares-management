@@ -155,6 +155,9 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="SellShares.resx">
+      <DependentUpon>SellShares.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Withdraw.resx">
       <DependentUpon>Withdraw.vb</DependentUpon>
     </EmbeddedResource>

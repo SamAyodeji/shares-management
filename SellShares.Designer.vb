@@ -22,9 +22,64 @@ Partial Class SellShares
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.SuspendLayout()
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(166, 203)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(218, 25)
+        Me.Label2.TabIndex = 7
+        Me.Label2.Text = "Amount of Share to Sell"
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(452, 283)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(182, 60)
+        Me.Button1.TabIndex = 6
+        Me.Button1.Text = "Sell"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(466, 199)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(168, 29)
+        Me.TextBox1.TabIndex = 5
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(300, 108)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(261, 25)
+        Me.Label1.TabIndex = 4
+        Me.Label1.Text = "please note A Share = $100 "
+        '
+        'SellShares
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(11.0!, 24.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Label1)
+        Me.Name = "SellShares"
         Me.Text = "SellShares"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
     End Sub
+
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Button1 As Button
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Label1 As Label
 End Class
